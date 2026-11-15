@@ -7,3 +7,6 @@
 | 3 | Replayable commands | I7 | Sniff Wi-Fi, resend command | TLS plus one-time nonces |
 | 4 | Open debug port | I10 | USB-UART cable gives a shell | Disable or lock console |
 | 5 | Fake firmware update (stretch) | I4 | Upload modified firmware | Signed firmware |
+
+
+OWASP codes (I1, I2, I7, I10, I4)
